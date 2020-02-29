@@ -1,0 +1,12 @@
+.jumbotron {
+	background-color: #8b5f25
+}
+
+.jumbotron h1 {
+	color:white;
+}
+
+p, h1 {
+	font-family: 'Roboto Slab', serif;
+	color: blue;
+}
